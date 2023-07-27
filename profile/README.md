@@ -1,4 +1,5 @@
-![Introdução](https://user-images.githubusercontent.com/41705596/190509360-b6d1849f-9e3a-483b-946c-ee763114ccfb.png)
+![Introdução](https://github.com/destinycommunity/.github/assets/41705596/76cc91b1-2759-4bb5-b5cb-63ee2968db75)
 
 # Destiny Community
-A empresa foi criada para atender jogadores que procuram uma jogabilidade moderna e de alta qualidade. Somos totalmente originais e nossa criatividade permitirá que você tenha uma experiência incrível. Combinamos histórias e estratégias de um modo extrovertido, formando uma dinâmica saudável e competitiva.
+É uma empresa do metaverso. Operamos um estúdio de ponta, desenvolvendo, produzindo e publicando servidores. Nossa missão consiste em criar e capacitar comunidades digitais, conectar jogadores, influenciadores e marcas por meio de ideias criativas de jogabilidade, marketing e inovação.
+
